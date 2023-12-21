@@ -16,18 +16,11 @@ Build Content-Based Filtering and Collaborative Filtering models that system ana
 - Model Tuning
 
 ## Source Data
-```
-https://www.kaggle.com/datasets/aprabowo/indonesia-tourism-destination
-```
-```
-https://www.kaggle.com/datasets/fuarresvij/bali-popular-destination-for-tourist-2022
-```
-```
-https://www.google.com/ 
-```
-```
-https://chat.openai.com/
-```
+- ##### Dataset 
+    ###### [Dataset 1](https://www.kaggle.com/datasets/aprabowo/indonesia-tourism-destination) 
+    ###### [Dataset 2](https://www.kaggle.com/datasets/fuarresvij/bali-popular-destination-for-tourist-2023)
+- ##### [Google](https://www.google.com/)
+- ##### [OpenAI](https://chat.openai.com/)
 
 ## App
 - Jupyter Notebook 
