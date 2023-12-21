@@ -1,5 +1,6 @@
 # Machine Learning Path
-Use `Content Based Filtering` and `Collaborative Filtering` to give the system recommendations on tourist attractions and hidden gems based on their personal interests and preferences. We also provide recommendations on `travel buddies` based on the user's similar place preferences and city of origin.
+Build Content-Based Filtering and Collaborative Filtering models that system analyze user behavior through ratings and identify similar user preferences to give recommendations for tourist attraction by looking for similar tourist attractions based on ratings, category, and location. Content based Filtering TF-IDF vectorization and cosine similarity to recommend places and uses scikit-learn library. Collaborative Filtering Model, we use tensorflow. We also provide recommendations on travel buddies based on the user's similar place preferences and city of origin. We implement a basic collaborative filtering recommendation system based on cosine similarity for recommending travel buddies.
+
 ## ML Team
 |  Student ID  | Name                               | University                                          |
 |--------------|------------------------------------|-----------------------------------------------------|
@@ -23,11 +24,9 @@ https://www.kaggle.com/datasets/fuarresvij/bali-popular-destination-for-tourist-
 ```
 ```
 https://www.google.com/ 
-#(Search pictures: Destination Place Name)
 ```
 ```
 https://chat.openai.com/
-#(Generated Dataset)
 ```
 
 ## App
