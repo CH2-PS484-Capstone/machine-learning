@@ -25,6 +25,10 @@ https://www.kaggle.com/datasets/fuarresvij/bali-popular-destination-for-tourist-
 https://www.google.com/ 
 #(Search pictures: Destination Place Name)
 ```
+```
+https://chat.openai.com/
+#(Generated Dataset)
+```
 
 ## App
 - Jupyter Notebook 
